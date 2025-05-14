@@ -1,0 +1,28 @@
+* {
+            margin: 0;
+
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background-color: #f0f1f5;
+        }
+
+        header {
+            background: linear-gradient(to right, #002346, #003c73, #0055aa);
+            height: 110px;
+        }
+        main{
+            height: 740px;
+        }
+        footer {
+            background: linear-gradient(to right, #002346, #003c73, #0055aa);
+            height: 110px;
+        }
+        .logox{
+            height: 110px;
+        }
+        .sla{
+            height: 700px;
+        }
